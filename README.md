@@ -8,7 +8,6 @@ This repository contains a series of Computer Vision lab experiments implemented
 
 **Table of Contents**
 
-
 1.Image Processing Techniques
 
 2.Color Models
@@ -30,7 +29,6 @@ This repository contains a series of Computer Vision lab experiments implemented
 10.Image Segmentation
 
 11.Video Background Subtraction and Scene Change Detection
-
 
 
 
