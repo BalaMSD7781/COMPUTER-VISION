@@ -38,7 +38,7 @@ This repository contains a series of Computer Vision lab experiments implemented
 
 Clone the repository:
 
-git clone https://github.com/your-username/computer-vision-lab.git
+git clone https://github.com/BalaMSD7781/COMPUTER-VISION.git
 cd computer-vision-lab
 
 
