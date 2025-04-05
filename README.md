@@ -1,7 +1,9 @@
 **Computer Vision Lab Experiments (Jupyter Notebooks)**
 
 
+
 This repository contains a series of Computer Vision lab experiments implemented using Python and OpenCV in Jupyter Notebooks. These notebooks cover fundamental techniques in image processing, feature extraction, and video analysis.
+
 
 
 
@@ -33,7 +35,9 @@ This repository contains a series of Computer Vision lab experiments implemented
 
 
 
+
 **How to Use**
+
 
 
 Clone the repository:
@@ -43,11 +47,15 @@ cd computer-vision-lab
 
 
 
+
+
 **Open the notebooks using Jupyter Notebook:**
 
 
 jupyter notebook
 Or upload any notebook to Google Colab to run it online.
+
+
 
 
 
